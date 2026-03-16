@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Models & Data (Exclude large files)
+data/raw_data.csv
+data/processed_data.csv
+model/*.pkl
+
+# Streamlit config (if any)
+.streamlit/credentials.toml

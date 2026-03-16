@@ -1,0 +1,81 @@
+5-Fold CV Mean: 95.63%
+Test Accuracy: 95.43%
+
+                   precision    recall  f1-score   support
+
+   annual moringa       0.96      0.92      0.94       200
+            apple       1.00      0.95      0.97        20
+        ash gourd       0.99      0.98      0.99       200
+           banana       1.00      1.00      1.00        20
+         beetroot       0.96      0.96      0.96       200
+       bengalgram       0.97      0.98      0.98       200
+           bhendi       0.90      0.96      0.93       200
+     bitter gourd       0.98      0.97      0.98       200
+        blackgram       1.00      1.00      1.00       200
+     bottle gourd       0.95      0.89      0.92       200
+          brinjal       0.91      0.91      0.91       200
+          cabbage       0.97      0.91      0.94       200
+         capsicum       0.93      0.92      0.93       200
+           carrot       1.00      1.00      1.00       200
+           castor       0.82      0.73      0.77       200
+      cauliflower       0.96      0.96      0.96       200
+         chickpea       1.00      1.00      1.00        20
+         chillies       0.97      0.99      0.98       200
+         chowchow       0.96      0.94      0.95       200
+     cluster bean       0.99      1.00      1.00       200
+          coconut       1.00      1.00      1.00        20
+           coffee       1.00      1.00      1.00        20
+           cotton       0.93      0.93      0.93       200
+           cowpea       0.98      0.96      0.97       200
+         cucumber       0.95      0.97      0.96       200
+elephant foot yam       0.97      0.99      0.98       200
+      french bean       0.81      0.76      0.78       200
+          gingely       1.00      1.00      1.00       200
+           grapes       0.95      1.00      0.98        20
+        greengram       1.00      1.00      1.00       200
+        groundnut       0.99      0.99      0.99       200
+        horsegram       1.00      0.99      1.00       200
+             jute       0.99      0.98      0.99       200
+      kidneybeans       0.87      1.00      0.93        20
+      kudiraivali       1.00      0.99      1.00       200
+           lentil       0.78      0.90      0.84        20
+            maize       0.99      0.99      0.99       200
+            mango       1.00      1.00      1.00        20
+        mothbeans       0.94      0.75      0.83        20
+         mungbean       1.00      0.95      0.97        20
+        muskmelon       0.98      0.99      0.99       200
+            onion       1.00      0.99      0.99       200
+           orange       1.00      0.95      0.97        20
+       panivaragu       0.96      0.90      0.93       200
+           papaya       0.95      0.95      0.95        20
+     pearl millet       1.00      0.99      1.00       200
+             peas       0.91      0.91      0.91       200
+       pigeonpeas       0.76      0.65      0.70        20
+      pomegranate       1.00      1.00      1.00        20
+          pumpkin       0.99      0.99      0.99       200
+           radish       0.98      0.99      0.99       200
+             ragi       0.95      0.91      0.93       200
+          redgram       0.99      1.00      0.99       200
+     ribbed gourd       0.98      0.98      0.98       200
+             rice       0.94      0.92      0.93       200
+            samai       1.00      1.00      1.00       200
+      small onion       0.99      0.99      0.99       200
+      snake gourd       0.90      0.95      0.92       200
+          sorghum       1.00      1.00      1.00       200
+         soyabean       0.95      0.97      0.96       200
+        sugarbeet       1.00      0.99      1.00       200
+        sugarcane       1.00      1.00      1.00       200
+        sunflower       0.79      0.84      0.82       200
+     sweet potato       1.00      1.00      1.00       200
+          tapoica       1.00      1.00      1.00       200
+           thinai       0.72      0.78      0.75       200
+            tinda       0.95      0.97      0.96       200
+           tomato       0.98      0.97      0.98       200
+           varagu       0.85      0.88      0.86       200
+ vegetable cowpea       0.81      0.88      0.84       200
+       watermelon       0.99      0.99      0.99       200
+            wheat       1.00      1.00      1.00       200
+
+         accuracy                           0.95     11700
+        macro avg       0.95      0.95      0.95     11700
+     weighted avg       0.95      0.95      0.95     11700
