@@ -8,7 +8,7 @@ Instead of relying solely on static soil data, this project uses a **Hybrid AI A
 *   **Dual-Mode Interface:** 
     *   **Beginner Mode:** Predicts crops based on standard district averages.
     *   **Expert Mode:** Allows entry of exact lab-tested soil metrics (N, P, K, pH) for precision recommendations.
-*   **实时 (Real-Time) Weather Integration:** Connects to the **OpenWeatherMap API** to fetch 5-day forecasts. It automatically warns against planting if upcoming extreme weather (heavy rain/drought) threatens the crop.
+*   (Real-Time) Weather Integration:** Connects to the **OpenWeatherMap API** to fetch 5-day forecasts. It automatically warns against planting if upcoming extreme weather (heavy rain/drought) threatens the crop.
 *   **Precision Fertilizer Guide:** Calculates exact Nitrogen, Phosphorus, and Potassium deficits based on the user's soil and target crop, providing tailored agronomic advice.
 *   **High Accuracy Model:** Powered by an **XGBoost Classifier** achieving **95.6% accuracy**.
 
